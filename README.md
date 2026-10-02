@@ -35,6 +35,10 @@ The default pack asks typed questions for engagement, an explicit decision, an o
 
 This is not transcription, minutes generation, recording, or productivity measurement. It accepts text only. The radar reflects only declared axes and illustrative thresholds. Jev can misread injected content, negation, numbers and long irrelevant windows; keep a human in the loop. English works best.
 
+## Shareable demo report
+
+Run `npm run demo:report` to capture this repository’s bundled example as one JSON object with the project purpose, version and complete demo output. The command fails if the demo fails, so the report is useful when sharing a reproducible first look or reporting unexpected behavior. The bundled demo’s data and safety boundaries still apply.
+
 ## Validation
 
 `npm run check`, `npm run typecheck`, `npm test`, and `npm run demo` run in CI on Node 22 and 24. Live smoke is opt-in and capped at two paid requests.
