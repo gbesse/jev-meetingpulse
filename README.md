@@ -48,3 +48,11 @@ Run `npm run demo:report` to capture this repository’s bundled example as one 
 [Semantic Watch](https://github.com/gbesse/semantic-watch) · [DecisionPacks](https://github.com/gbesse/decisionpacks) · [Question Forge](https://github.com/gbesse/question-forge)
 
 Independent project; not affiliated with TypeSafe AI. [TypeSafe API](https://docs.typesafe.ai/api) · [known model limitations](https://docs.typesafe.ai/model-jaggedness/jev-1.13)
+
+## October 2026 improvement · Amélioration d’octobre 2026 · Mejora de octubre de 2026
+
+Invalid transcript clock values such as `10:75:00` now stop evaluation instead of entering the time window. Run `npm test`.
+
+Les heures de transcription invalides, comme `10:75:00`, arrêtent désormais l’évaluation au lieu d’entrer dans la fenêtre temporelle. Lancez `npm test`.
+
+Las horas de transcripción inválidas, como `10:75:00`, ahora detienen la evaluación en vez de entrar en la ventana temporal. Ejecute `npm test`.

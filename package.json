@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-meetingpulse",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Watch a growing text transcript and update declared meeting signals with exact quoted lines.",
   "type": "module",
   "exports": {
